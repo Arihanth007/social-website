@@ -1,0 +1,1 @@
+npm i concurrently react-router-dom axios classnames redux react-redux redux-thunk prop-types jwt-decode moment react-moment
